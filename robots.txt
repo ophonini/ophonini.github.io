@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ophonini.github.io/sitemap.html.gz
+Sitemap: https://ophonini.github.io/app/sitemap.html.gz
+Sitemap: https://ophonini.github.io/assets/sitemap.html.gz
+Sitemap: https://ophonini.github.io/css/sitemap.html.gz
+Sitemap: https://ophonini.github.io/includes/sitemap.html.gz
+Sitemap: https://ophonini.github.io/item/sitemap.html.gz
+Sitemap: https://ophonini.github.io/src/sitemap.html.gz
